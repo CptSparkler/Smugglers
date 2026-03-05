@@ -1,0 +1,7 @@
+D:\SPT DEV\Development\Smugglers\Smugglers\obj\Debug\net9.0\Smugglers.csproj.AssemblyReference.cache
+D:\SPT DEV\Development\Smugglers\Smugglers\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\SPT DEV\Development\Smugglers\Smugglers\obj\Debug\net9.0\Smugglers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SPT DEV\Development\Smugglers\Smugglers\obj\Debug\net9.0\Smugglers.AssemblyInfoInputs.cache
+D:\SPT DEV\Development\Smugglers\Smugglers\obj\Debug\net9.0\Smugglers.AssemblyInfo.cs
+D:\SPT DEV\Development\Smugglers\Smugglers\obj\Debug\net9.0\Smugglers.csproj.CoreCompileInputs.cache
+D:\SPT DEV\Development\Smugglers\Smugglers\obj\Debug\net9.0\Smugglers.MvcApplicationPartsAssemblyInfo.cache

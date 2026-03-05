@@ -1,0 +1,894 @@
+// Loose Loot Locked Case Spawns 
+// On maps: Customs, Factory Day, Factory Night, Ground Zero 20+, Interchange, Reserve, Lighthouse, Woods and Streets
+
+{
+    "bigmap": [
+	    {
+            "Id": "kontr_crate1 [710da39d-ab22-440a-8f84-ffbffa25ad62]",
+            "Position": { "x":-224.92554,"y":1.149,"z":-143.19377 },
+			"Rotation": { "x": 0, "y": 0, "z": 0 },
+            "probability": 0.0035739814152966403,
+            "Items": [
+                {
+                    "_tpl": "6740987b89d5e1ddc603f4f0",
+                    "_id": "-1957526165",
+                    "relativeProbability": 35
+                }
+            ]
+        },
+		{
+            "Id": "kontr_crate1 [710da39d-ab22-440a-8f84-ffbffa25ad62]",
+            "Position": { "x": -202.86029, "y": 1.4557999, "z": -148.32129 },
+			"Rotation": { "x":1.4134376,"y":90.3283,"z":163.15266 },
+            "probability": 0.003778208924742163,
+            "Items": [
+                {
+                    "_tpl": "6740987b89d5e1ddc603f4f0",
+                    "_id": "-1957526165",
+                    "relativeProbability": 37
+                }
+            ]
+        },
+		{
+            "Id": "kontr_crate1 [710da39d-ab22-440a-8f84-ffbffa25ad62]",
+            "Position": { "x":-203.44287,"y":7.194,"z":-109.811386 },
+			"Rotation": { "x":84.00724,"y":-8.997535E-05,"z":-9.4811636E-05 },
+            "probability": 0.0028591851322373124,
+            "Items": [
+                {
+                    "_tpl": "6740987b89d5e1ddc603f4f0",
+                    "_id": "-1957526165",
+                    "relativeProbability": 28
+                }
+            ]
+        },
+		{
+            "Id": "kontr_crate2 [d9cbb4a8-d738-431e-8155-1cf9e8ee48e3]",
+            "Position": { "x":-2.337494,"y":1.2880001,"z":-95.86835 },
+			"Rotation": { "x":84.0072,"y":73.63225,"z":4.9065646E-05 },
+            "probability": 0.003982436434187685,
+            "Items": [
+                {
+                    "_tpl": "6740987b89d5e1ddc603f4f0",
+                    "_id": "-1957526165",
+                    "relativeProbability": 39
+                }
+            ]
+        },
+		{
+            "Id": "kontr_crate2 [d9cbb4a8-d738-431e-8155-1cf9e8ee48e3]",
+            "Position": { "x":3.6714172,"y":1.5479994,"z":-113.38345 },
+			"Rotation": { "x":0,"y":81.81558,"z":0 },
+            "probability": 0.0029612988869600733,
+            "Items": [
+                {
+                    "_tpl": "6740987b89d5e1ddc603f4f0",
+                    "_id": "-1957526165",
+                    "relativeProbability": 29
+                }
+            ]
+        },
+		{
+            "Id": "kontr_crate2 [d9cbb4a8-d738-431e-8155-1cf9e8ee48e3]",
+            "Position": { "x":-42.229202,"y":-7.7520003,"z":-95.46561 },
+			"Rotation": { "x":86.871254,"y":330.70938,"z":343.3558 },
+            "probability": 0.0032676401511283573,
+            "Items": [
+                {
+                    "_tpl": "6740987b89d5e1ddc603f4f0",
+                    "_id": "-1957526165",
+                    "relativeProbability": 32
+                }
+            ]
+        },
+		{
+            "Id": "kontr_crate3 [e67fe357-9ef4-4ae0-8934-6f8b0113bc04]",
+            "Position": { "x":623.48145,"y":1.5929999,"z":-123.35827 },
+			"Rotation": { "x":84.00713,"y":4.7810273,"z":-0.00028008217 },
+            "probability": 0.0034718676605738795,
+            "Items": [
+                {
+                    "_tpl": "6740987b89d5e1ddc603f4f0",
+                    "_id": "-1957526165",
+                    "relativeProbability": 34
+                }
+            ]
+        },
+		{
+            "Id": "kontr_crate3 [e67fe357-9ef4-4ae0-8934-6f8b0113bc04]",
+            "Position": { "x":620.87555,"y":2.656,"z":-137.18427 },
+			"Rotation": { "x":4.2644653,"y":180.81926,"z":182.89873 },
+            "probability": 0.0028591851322373124,
+            "Items": [
+                {
+                    "_tpl": "6740987b89d5e1ddc603f4f0",
+                    "_id": "-1957526165",
+                    "relativeProbability": 28
+                }
+            ]
+        },
+		{
+            "Id": "kontr_crate3 [e67fe357-9ef4-4ae0-8934-6f8b0113bc04]",
+            "Position": { "x":607.261,"y":5.116,"z":-124.546 },
+			"Rotation": { "x":0,"y":0,"z":0 },
+            "probability": 0.003880322679464924,
+            "Items": [
+                {
+                    "_tpl": "6740987b89d5e1ddc603f4f0",
+                    "_id": "-1957526165",
+                    "relativeProbability": 38
+                }
+            ]
+        }
+	],
+	"factory4_day": [
+		{
+            "Id": "kontr_crate1 [de4bd3c5-3105-44fc-8a3e-ba62309d3427]",
+            "Position": { "x":26.389088,"y":4.311,"z":-34.856113 },
+			"Rotation": { "x":76.441444,"y":183.80333,"z":192.21747 },
+            "probability": 0.004630105977981274,
+            "Items": [
+                {
+                    "_tpl": "6740987b89d5e1ddc603f4f0",
+                    "_id": "-1957526165",
+                    "relativeProbability": 45
+                }
+            ]
+        },
+		{
+            "Id": "kontr_crate1 [de4bd3c5-3105-44fc-8a3e-ba62309d3427]",
+            "Position": { "x":28.944035,"y":3.9940002,"z":-17.545992 },
+			"Rotation": { "x":0,"y":0,"z":0 },
+            "probability": 0.00360119353842988,
+            "Items": [
+                {
+                    "_tpl": "6740987b89d5e1ddc603f4f0",
+                    "_id": "-1957526165",
+                    "relativeProbability": 35
+                }
+            ]
+        },
+		{
+            "Id": "kontr_crate1 [de4bd3c5-3105-44fc-8a3e-ba62309d3427]",
+            "Position": { "x":29.2448,"y":4.547,"z":-24.157719 },
+			"Rotation": { "x":87.98598,"y":311.12427,"z":305.29688 },
+            "probability": 0.0020578248791027886,
+            "Items": [
+                {
+                    "_tpl": "6740987b89d5e1ddc603f4f0",
+                    "_id": "-1957526165",
+                    "relativeProbability": 20
+                }
+            ]
+        },
+		{
+            "Id": "kontr_crate2 [643d0c93-64c4-4cae-9895-a3ea9ca5d855]",
+            "Position": { "x":21.689455,"y":1.448,"z":43.857655 },
+			"Rotation": { "x":88.14407,"y":251.71698,"z":238.31378 },
+            "probability": 0.0027780635867887646,
+            "Items": [
+                {
+                    "_tpl": "6740987b89d5e1ddc603f4f0",
+                    "_id": "-1957526165",
+                    "relativeProbability": 27
+                }
+            ]
+        },
+		{
+            "Id": "kontr_crate2 [643d0c93-64c4-4cae-9895-a3ea9ca5d855]",
+            "Position": { "x":15.054934,"y":0.9849999,"z":41.779346 },
+			"Rotation": { "x":0,"y":0,"z":0 },
+            "probability": 0.0033954110505196007,
+            "Items": [
+                {
+                    "_tpl": "6740987b89d5e1ddc603f4f0",
+                    "_id": "-1957526165",
+                    "relativeProbability": 33
+                }
+            ]
+        },
+		{
+            "Id": "kontr_crate2 [643d0c93-64c4-4cae-9895-a3ea9ca5d855]",
+            "Position": { "x":27.30994,"y":1.635,"z":43.795704 },
+			"Rotation": { "x":84.00713,"y":4.7810273,"z":-0.00028008217 },
+            "probability": 0.004115649758205577,
+            "Items": [
+                {
+                    "_tpl": "6740987b89d5e1ddc603f4f0",
+                    "_id": "-1957526165",
+                    "relativeProbability": 40
+                }
+            ]
+        }
+	],
+	"factory4_night": [
+		{
+            "Id": "kontr_crate1 [de4bd3c5-3105-44fc-8a3e-ba62309d3427]",
+            "Position": { "x":28.944035,"y":3.9940002,"z":-17.545992 },
+			"Rotation": { "x":0,"y":0,"z":0 },
+            "probability": 0.006021505376344086,
+            "Items": [
+                {
+                    "_tpl": "6740987b89d5e1ddc603f4f0",
+                    "_id": "-1957526165",
+                    "relativeProbability": 28
+                }
+            ]
+        },
+		{
+            "Id": "kontr_crate1 [de4bd3c5-3105-44fc-8a3e-ba62309d3427]",
+            "Position": { "x":26.389088,"y":4.311,"z":-34.856113 },
+			"Rotation": { "x":76.441444,"y":183.80333,"z":192.21747 },
+            "probability": 0.007956989247311828,
+            "Items": [
+                {
+                    "_tpl": "6740987b89d5e1ddc603f4f0",
+                    "_id": "-1957526165",
+                    "relativeProbability": 37
+                }
+            ]
+        },
+		{
+            "Id": "kontr_crate1 [de4bd3c5-3105-44fc-8a3e-ba62309d3427]",
+            "Position": { "x":29.2448,"y":4.547,"z":-24.157719 },
+			"Rotation": { "x":87.98598,"y":311.12427,"z":305.29688 },
+            "probability": 0.007526881720430108,
+            "Items": [
+                {
+                    "_tpl": "6740987b89d5e1ddc603f4f0",
+                    "_id": "-1957526165",
+                    "relativeProbability": 35
+                }
+            ]
+        },
+		{
+            "Id": "kontr_crate2 [643d0c93-64c4-4cae-9895-a3ea9ca5d855]",
+            "Position": { "x":27.30994,"y":1.635,"z":43.795704 },
+			"Rotation": { "x":84.00713,"y":4.7810273,"z":-0.00028008217 },
+            "probability": 0.006666666666666667,
+            "Items": [
+                {
+                    "_tpl": "6740987b89d5e1ddc603f4f0",
+                    "_id": "-1957526165",
+                    "relativeProbability": 31
+                }
+            ]
+        },
+		{
+            "Id": "kontr_crate2 [643d0c93-64c4-4cae-9895-a3ea9ca5d855]",
+            "Position": { "x":15.054934,"y":0.9849999,"z":41.779346 },
+			"Rotation": { "x":0,"y":0,"z":0 },
+            "probability": 0.00838709677419355,
+            "Items": [
+                {
+                    "_tpl": "6740987b89d5e1ddc603f4f0",
+                    "_id": "-1957526165",
+                    "relativeProbability": 39
+                }
+            ]
+        },
+		{
+            "Id": "kontr_crate2 [643d0c93-64c4-4cae-9895-a3ea9ca5d855]",
+            "Position": { "x":21.689455,"y":1.448,"z":43.857655 },
+			"Rotation": { "x":88.14407,"y":251.71698,"z":238.31378 },
+            "probability": 0.0064516129032258064,
+            "Items": [
+                {
+                    "_tpl": "6740987b89d5e1ddc603f4f0",
+                    "_id": "-1957526165",
+                    "relativeProbability": 30
+                }
+            ]
+        }
+	],
+	"sandbox_high": [
+		{
+            "Id": "kontr_crate1 [de4bd3c5-3105-44fc-8a3e-ba62309d3427]",
+            "Position": { "x":101.489456,"y":13.665,"z":50.081146 },
+			"Rotation": { "x":90,"y":17.369024,"z":0 },
+            "probability": 0.005393304162002646,
+            "Items": [
+                {
+                    "_tpl": "6740987b89d5e1ddc603f4f0",
+                    "_id": "-1957526165",
+                    "relativeProbability": 53
+                }
+            ]
+        },
+		{
+            "Id": "kontr_crate1 [de4bd3c5-3105-44fc-8a3e-ba62309d3427]",
+            "Position": { "x":100.84947,"y":12.415,"z":45.861954 },
+			"Rotation": { "x":0,"y":0,"z":0 },
+            "probability": 0.004782741426681591,
+            "Items": [
+                {
+                    "_tpl": "6740987b89d5e1ddc603f4f0",
+                    "_id": "-1957526165",
+                    "relativeProbability": 47
+                }
+            ]
+        },
+		{
+            "Id": "kontr_crate2 [643d0c93-64c4-4cae-9895-a3ea9ca5d855]",
+            "Position": { "x":58.717957,"y":32.374,"z":150.29662 },
+			"Rotation": { "x":86.63524,"y":49.46491,"z":170.40125 },
+            "probability": 0.003256334588378956,
+            "Items": [
+                {
+                    "_tpl": "6740987b89d5e1ddc603f4f0",
+                    "_id": "-1957526165",
+                    "relativeProbability": 32
+                }
+            ]
+        },
+		{
+            "Id": "kontr_crate2 [643d0c93-64c4-4cae-9895-a3ea9ca5d855]",
+            "Position": { "x":49.495422,"y":31.033,"z":136.52226 },
+			"Rotation": { "x":88.14427,"y":236.72783,"z":238.3153 },
+            "probability": 0.003663376411926326,
+            "Items": [
+                {
+                    "_tpl": "6740987b89d5e1ddc603f4f0",
+                    "_id": "-1957526165",
+                    "relativeProbability": 36
+                }
+            ]
+        },
+		{
+            "Id": "kontr_crate2 [643d0c93-64c4-4cae-9895-a3ea9ca5d855]",
+            "Position": { "x":61.408325,"y":31.652199,"z":134.20769 },
+			"Rotation": { "x":0,"y":0,"z":0 },
+            "probability": 0.003256334588378956,
+            "Items": [
+                {
+                    "_tpl": "6740987b89d5e1ddc603f4f0",
+                    "_id": "-1957526165",
+                    "relativeProbability": 32
+                }
+            ]
+        }
+	],
+	"interchange": [
+		{
+            "Id": "kontr_crate1 [de4bd3c5-3105-44fc-8a3e-ba62309d3427]",
+            "Position": { "x":-13.9539795,"y":27.848,"z":-185.6148 },
+			"Rotation": { "x":0.10823219,"y":181.5282,"z":178.13011 },
+            "probability": 0.0035623409669211198,
+            "Items": [
+                {
+                    "_tpl": "6740987b89d5e1ddc603f4f0",
+                    "_id": "-1957526165",
+                    "relativeProbability": 35
+                }
+            ]
+        },
+		{
+            "Id": "kontr_crate1 [de4bd3c5-3105-44fc-8a3e-ba62309d3427]",
+            "Position": { "x":-66.407745,"y":27.708,"z":-209.07578 },
+			"Rotation": { "x":0,"y":23.130922,"z":0 },
+            "probability": 0.004071246819338422,
+            "Items": [
+                {
+                    "_tpl": "6740987b89d5e1ddc603f4f0",
+                    "_id": "-1957526165",
+                    "relativeProbability": 40
+                }
+            ]
+        },
+		{
+            "Id": "kontr_crate1 [de4bd3c5-3105-44fc-8a3e-ba62309d3427]",
+            "Position": { "x":-8.578171,"y":27.901001,"z":-236.91603 },
+			"Rotation": { "x":89.15628,"y":89.99884,"z":98.41226 },
+            "probability": 0.0026463104325699744,
+            "Items": [
+                {
+                    "_tpl": "6740987b89d5e1ddc603f4f0",
+                    "_id": "-1957526165",
+                    "relativeProbability": 26
+                }
+            ]
+        },
+		{
+            "Id": "kontr_crate2 [643d0c93-64c4-4cae-9895-a3ea9ca5d855]",
+            "Position": { "x":-164.06805,"y":27.381,"z":-84.314285 },
+			"Rotation": { "x":88.14417,"y":167.96767,"z":238.3154 },
+            "probability": 0.0037659033078880407,
+            "Items": [
+                {
+                    "_tpl": "6740987b89d5e1ddc603f4f0",
+                    "_id": "-1957526165",
+                    "relativeProbability": 37
+                }
+            ]
+        },
+		{
+            "Id": "kontr_crate2 [643d0c93-64c4-4cae-9895-a3ea9ca5d855]",
+            "Position": { "x":-114.19623,"y":28.168,"z":-46.367447 },
+			"Rotation": { "x":0,"y":0,"z":0 },
+            "probability": 0.003256997455470738,
+            "Items": [
+                {
+                    "_tpl": "6740987b89d5e1ddc603f4f0",
+                    "_id": "-1957526165",
+                    "relativeProbability": 32
+                }
+            ]
+        },
+		{
+            "Id": "kontr_crate2 [643d0c93-64c4-4cae-9895-a3ea9ca5d855]",
+            "Position": { "x":-166.70428,"y":27.254,"z":-35.799026 },
+			"Rotation": { "x":86.635124,"y":104.35977,"z":170.4021 },
+            "probability": 0.003256997455470738,
+            "Items": [
+                {
+                    "_tpl": "6740987b89d5e1ddc603f4f0",
+                    "_id": "-1957526165",
+                    "relativeProbability": 32
+                }
+            ]
+        },
+		{
+            "Id": "kontr_crate3 [2ec0fb06-eac6-457b-9f7e-43e956eaa48f]",
+            "Position": { "x":-211.88623,"y":22.095,"z":-351.71576 },
+			"Rotation": { "x":0,"y":0,"z":0 },
+            "probability": 0.0037659033078880407,
+            "Items": [
+                {
+                    "_tpl": "6740987b89d5e1ddc603f4f0",
+                    "_id": "-1957526165",
+                    "relativeProbability": 37
+                }
+            ]
+        },
+		{
+            "Id": "kontr_crate3 [2ec0fb06-eac6-457b-9f7e-43e956eaa48f]",
+            "Position": { "x":-217.61072,"y":24.717001,"z":-344.76245 },
+			"Rotation": { "x":88.14417,"y":167.96767,"z":238.3154 },
+            "probability": 0.003256997455470738,
+            "Items": [
+                {
+                    "_tpl": "6740987b89d5e1ddc603f4f0",
+                    "_id": "-1957526165",
+                    "relativeProbability": 32
+                }
+            ]
+        },
+		{
+            "Id": "kontr_crate3 [2ec0fb06-eac6-457b-9f7e-43e956eaa48f]",
+            "Position": { "x":-213.60779,"y":22.003,"z":-362.64764 },
+			"Rotation": { "x":86.635185,"y":178.05418,"z":170.40198 },
+            "probability": 0.003256997455470738,
+            "Items": [
+                {
+                    "_tpl": "6740987b89d5e1ddc603f4f0",
+                    "_id": "-1957526165",
+                    "relativeProbability": 32
+                }
+            ]
+        }
+	],
+	"reservebase": [
+		{
+            "Id": "kontr_crate1 [de4bd3c5-3105-44fc-8a3e-ba62309d3427]",
+            "Position": { "x":108.15515,"y":-6.31,"z":48.25824 },
+			"Rotation": { "x":0,"y":0,"z":0 },
+            "probability": 0.0035137034434293748,
+            "Items": [
+                {
+                    "_tpl": "6740987b89d5e1ddc603f4f0",
+                    "_id": "-1957526165",
+                    "relativeProbability": 35
+                }
+            ]
+        },
+		{
+            "Id": "kontr_crate1 [de4bd3c5-3105-44fc-8a3e-ba62309d3427]",
+            "Position": { "x":112.88452,"y":-6.125,"z":65.02814 },
+			"Rotation": { "x":90,"y":351.5866,"z":0 },
+            "probability": 0.0036140949703844997,
+            "Items": [
+                {
+                    "_tpl": "6740987b89d5e1ddc603f4f0",
+                    "_id": "-1957526165",
+                    "relativeProbability": 36
+                }
+            ]
+        },
+		{
+            "Id": "kontr_crate1 [de4bd3c5-3105-44fc-8a3e-ba62309d3427]",
+            "Position": { "x":97.44531,"y":-5.9773,"z":59.907104 },
+			"Rotation": { "x":0.10823219,"y":181.5282,"z":178.13011 },
+            "probability": 0.002911354281698625,
+            "Items": [
+                {
+                    "_tpl": "6740987b89d5e1ddc603f4f0",
+                    "_id": "-1957526165",
+                    "relativeProbability": 29
+                }
+            ]
+        },
+		{
+            "Id": "kontr_crate2 [643d0c93-64c4-4cae-9895-a3ea9ca5d855]",
+            "Position": { "x":55.933777,"y":-4.474,"z":-109.87799 },
+			"Rotation": { "x":0,"y":0,"z":0 },
+            "probability": 0.004015661078205,
+            "Items": [
+                {
+                    "_tpl": "6740987b89d5e1ddc603f4f0",
+                    "_id": "-1957526165",
+                    "relativeProbability": 40
+                }
+            ]
+        },
+		{
+            "Id": "kontr_crate2 [643d0c93-64c4-4cae-9895-a3ea9ca5d855]",
+            "Position": { "x":30.289124,"y":-4.951,"z":-132.31586 },
+			"Rotation": { "x":86.63524,"y":83.83449,"z":170.40178 },
+            "probability": 0.003312920389519125,
+            "Items": [
+                {
+                    "_tpl": "6740987b89d5e1ddc603f4f0",
+                    "_id": "-1957526165",
+                    "relativeProbability": 33
+                }
+            ]
+        },
+		{
+            "Id": "kontr_crate2 [643d0c93-64c4-4cae-9895-a3ea9ca5d855]",
+            "Position": { "x":21.374939,"y":-4.94,"z":-82.36487 },
+			"Rotation": { "x":88.14417,"y":167.96767,"z":238.3154 },
+            "probability": 0.0027105712277883747,
+            "Items": [
+                {
+                    "_tpl": "6740987b89d5e1ddc603f4f0",
+                    "_id": "-1957526165",
+                    "relativeProbability": 27
+                }
+            ]
+        }
+	],
+	"lighthouse": [
+		{
+            "Id": "kontr_crate1 [de4bd3c5-3105-44fc-8a3e-ba62309d3427]",
+            "Position": { "x":54.5533,"y":13.008,"z":-849.84216 },
+			"Rotation": { "x":0,"y":23.130922,"z":0 },
+            "probability": 0.003391182924396569,
+            "Items": [
+                {
+                    "_tpl": "6740987b89d5e1ddc603f4f0",
+                    "_id": "-1957526165",
+                    "relativeProbability": 34
+                }
+            ]
+        },
+		{
+            "Id": "kontr_crate1 [de4bd3c5-3105-44fc-8a3e-ba62309d3427]",
+            "Position": { "x":34.562088,"y":12.395,"z":-870.3938 },
+			"Rotation": { "x":90,"y":132.29555,"z":0 },
+            "probability": 0.003590664272890485,
+            "Items": [
+                {
+                    "_tpl": "6740987b89d5e1ddc603f4f0",
+                    "_id": "-1957526165",
+                    "relativeProbability": 36
+                }
+            ]
+        },
+		{
+            "Id": "kontr_crate1 [de4bd3c5-3105-44fc-8a3e-ba62309d3427]",
+            "Position": { "x":56.71797,"y":12.385,"z":-828.00183 },
+			"Rotation": { "x":90,"y":201.1552,"z":0 },
+            "probability": 0.0029922202274087375,
+            "Items": [
+                {
+                    "_tpl": "6740987b89d5e1ddc603f4f0",
+                    "_id": "-1957526165",
+                    "relativeProbability": 30
+                }
+            ]
+        },
+		{
+            "Id": "kontr_crate2 [643d0c93-64c4-4cae-9895-a3ea9ca5d855]",
+            "Position": { "x":-81.5047,"y":22.61,"z":-87.641556 },
+			"Rotation": { "x":87.8446,"y":0.00019137184,"z":0.00019378711 },
+            "probability": 0.0042888489926191905,
+            "Items": [
+                {
+                    "_tpl": "6740987b89d5e1ddc603f4f0",
+                    "_id": "-1957526165",
+                    "relativeProbability": 43
+                }
+            ]
+        },
+		{
+            "Id": "kontr_crate2 [643d0c93-64c4-4cae-9895-a3ea9ca5d855]",
+            "Position": { "x":-108.70764,"y":21.062,"z":-15.123062 },
+			"Rotation": { "x":88.14417,"y":104.531235,"z":238.3151 },
+            "probability": 0.003291442250149611,
+            "Items": [
+                {
+                    "_tpl": "6740987b89d5e1ddc603f4f0",
+                    "_id": "-1957526165",
+                    "relativeProbability": 33
+                }
+            ]
+        },
+		{
+            "Id": "kontr_crate2 [643d0c93-64c4-4cae-9895-a3ea9ca5d855]",
+            "Position": { "x":-81.59259,"y":22.837,"z":-57.635025 },
+			"Rotation": { "x":0.15641482,"y":358.85364,"z":177.47746 },
+            "probability": 0.00239377618192699,
+            "Items": [
+                {
+                    "_tpl": "6740987b89d5e1ddc603f4f0",
+                    "_id": "-1957526165",
+                    "relativeProbability": 24
+                }
+            ]
+        },
+		{
+            "Id": "kontr_crate3 [2ec0fb06-eac6-457b-9f7e-43e956eaa48f]",
+            "Position": { "x":-66.57092,"y":27.272,"z":113.58861 },
+			"Rotation": { "x":0,"y":0,"z":0 },
+            "probability": 0.003391182924396569,
+            "Items": [
+                {
+                    "_tpl": "6740987b89d5e1ddc603f4f0",
+                    "_id": "-1957526165",
+                    "relativeProbability": 34
+                }
+            ]
+        },
+		{
+            "Id": "kontr_crate3 [2ec0fb06-eac6-457b-9f7e-43e956eaa48f]",
+            "Position": { "x":-123.437195,"y":36.799,"z":96.762436 },
+			"Rotation": { "x":88.14417,"y":167.96767,"z":238.3154 },
+            "probability": 0.0028924795531617793,
+            "Items": [
+                {
+                    "_tpl": "6740987b89d5e1ddc603f4f0",
+                    "_id": "-1957526165",
+                    "relativeProbability": 29
+                }
+            ]
+        },
+		{
+            "Id": "kontr_crate3 [2ec0fb06-eac6-457b-9f7e-43e956eaa48f]",
+            "Position": { "x":-118.86432,"y":43.61,"z":90.96605 },
+			"Rotation": { "x":86.635185,"y":178.05418,"z":170.40198 },
+            "probability": 0.0036904049471374427,
+            "Items": [
+                {
+                    "_tpl": "6740987b89d5e1ddc603f4f0",
+                    "_id": "-1957526165",
+                    "relativeProbability": 37
+                }
+            ]
+        }
+	],
+	"woods": [
+		{
+            "Id": "kontr_crate1 [de4bd3c5-3105-44fc-8a3e-ba62309d3427]",
+            "Position": { "x":137.93282,"y":27.384,"z":-727.1324 },
+			"Rotation": { "x":90,"y":132.29555,"z":0 },
+            "probability": 0.005257304620361945,
+            "Items": [
+                {
+                    "_tpl": "6740987b89d5e1ddc603f4f0",
+                    "_id": "-1957526165",
+                    "relativeProbability": 52
+                }
+            ]
+        },
+		{
+            "Id": "kontr_crate1 [de4bd3c5-3105-44fc-8a3e-ba62309d3427]",
+            "Position": { "x":220.73201,"y":20.6,"z":-708.4022 },
+			"Rotation": { "x":0,"y":23.130922,"z":0 },
+            "probability": 0.004751794560711758,
+            "Items": [
+                {
+                    "_tpl": "6740987b89d5e1ddc603f4f0",
+                    "_id": "-1957526165",
+                    "relativeProbability": 47
+                }
+            ]
+        },
+		{
+            "Id": "kontr_crate2 [643d0c93-64c4-4cae-9895-a3ea9ca5d855]",
+            "Position": { "x":-452.14233,"y":15.539,"z":-395.4497 },
+			"Rotation": { "x":87.8446,"y":0.00019137184,"z":0.00019378711 },
+            "probability": 0.003841876453341422,
+            "Items": [
+                {
+                    "_tpl": "6740987b89d5e1ddc603f4f0",
+                    "_id": "-1957526165",
+                    "relativeProbability": 38
+                }
+            ]
+        },
+		{
+            "Id": "kontr_crate2 [643d0c93-64c4-4cae-9895-a3ea9ca5d855]",
+            "Position": { "x":-462.08423,"y":18.772,"z":-366.7328 },
+			"Rotation": { "x":88.14417,"y":167.96767,"z":238.3154 },
+            "probability": 0.003538570417551309,
+            "Items": [
+                {
+                    "_tpl": "6740987b89d5e1ddc603f4f0",
+                    "_id": "-1957526165",
+                    "relativeProbability": 35
+                }
+            ]
+        },
+		{
+            "Id": "kontr_crate2 [643d0c93-64c4-4cae-9895-a3ea9ca5d855]",
+            "Position": { "x":-510.28088,"y":16,"z":-393.35632 },
+			"Rotation": { "x":86.63529,"y":341.0866,"z":170.40172 },
+            "probability": 0.002628652310180973,
+            "Items": [
+                {
+                    "_tpl": "6740987b89d5e1ddc603f4f0",
+                    "_id": "-1957526165",
+                    "relativeProbability": 26
+                }
+            ]
+        },
+		{
+            "Id": "kontr_crate3 [2ec0fb06-eac6-457b-9f7e-43e956eaa48f]",
+            "Position": { "x":-212.03955,"y":-1.7140001,"z":202.73692 },
+			"Rotation": { "x":88.14417,"y":167.96767,"z":238.3154 },
+            "probability": 0.0037407744414113845,
+            "Items": [
+                {
+                    "_tpl": "6740987b89d5e1ddc603f4f0",
+                    "_id": "-1957526165",
+                    "relativeProbability": 37
+                }
+            ]
+        },
+		{
+            "Id": "kontr_crate3 [2ec0fb06-eac6-457b-9f7e-43e956eaa48f]",
+            "Position": { "x":-178.90039,"y":1.119,"z":207.21123 },
+			"Rotation": { "x":86.635185,"y":178.05418,"z":170.40198 },
+            "probability": 0.0028308563340410475,
+            "Items": [
+                {
+                    "_tpl": "6740987b89d5e1ddc603f4f0",
+                    "_id": "-1957526165",
+                    "relativeProbability": 28
+                }
+            ]
+        },
+		{
+            "Id": "kontr_crate3 [2ec0fb06-eac6-457b-9f7e-43e956eaa48f]",
+            "Position": { "x":-187.11047,"y":2.5059998,"z":269.50696 },
+			"Rotation": { "x":0,"y":0,"z":0 },
+            "probability": 0.0034374684056212718,
+            "Items": [
+                {
+                    "_tpl": "6740987b89d5e1ddc603f4f0",
+                    "_id": "-1957526165",
+                    "relativeProbability": 34
+                }
+            ]
+        }
+	],
+	"tarkovstreets": [
+		{
+            "Id": "kontr_crate1 [de4bd3c5-3105-44fc-8a3e-ba62309d3427]",
+            "Position": { "x":-86.77806,"y":4.482,"z":280.94083 },
+			"Rotation": { "x":90,"y":351.5866,"z":0 },
+            "probability": 0.003781470793113743,
+            "Items": [
+                {
+                    "_tpl": "6740987b89d5e1ddc603f4f0",
+                    "_id": "-1957526165",
+                    "relativeProbability": 38
+                }
+            ]
+        },
+		{
+            "Id": "kontr_crate1 [de4bd3c5-3105-44fc-8a3e-ba62309d3427]",
+            "Position": { "x":-88.83592,"y":8.937,"z":289.04803 },
+			"Rotation": { "x":0.1082314,"y":0.9517161,"z":178.13011 },
+            "probability": 0.0031843964573589414,
+            "Items": [
+                {
+                    "_tpl": "6740987b89d5e1ddc603f4f0",
+                    "_id": "-1957526165",
+                    "relativeProbability": 32
+                }
+            ]
+        },
+		{
+            "Id": "kontr_crate1 [de4bd3c5-3105-44fc-8a3e-ba62309d3427]",
+            "Position": { "x":-99.17496,"y":3.1650002,"z":273.19012 },
+			"Rotation": { "x":1.8710674,"y":23.143988,"z":0.799583 },
+            "probability": 0.0028858592894815405,
+            "Items": [
+                {
+                    "_tpl": "6740987b89d5e1ddc603f4f0",
+                    "_id": "-1957526165",
+                    "relativeProbability": 29
+                }
+            ]
+        },
+		{
+            "Id": "kontr_crate2 [643d0c93-64c4-4cae-9895-a3ea9ca5d855]",
+            "Position": { "x":-24.79065,"y":2.1369998,"z":139.62181 },
+			"Rotation": { "x":88.14417,"y":167.96767,"z":238.3154 },
+            "probability": 0.0028858592894815405,
+            "Items": [
+                {
+                    "_tpl": "6740987b89d5e1ddc603f4f0",
+                    "_id": "-1957526165",
+                    "relativeProbability": 29
+                }
+            ]
+        },
+		{
+            "Id": "kontr_crate2 [643d0c93-64c4-4cae-9895-a3ea9ca5d855]",
+            "Position": { "x":-18.882019,"y":1.9539998,"z":78.7827 },
+			"Rotation": { "x":0,"y":38.11453,"z":0 },
+            "probability": 0.0031843964573589414,
+            "Items": [
+                {
+                    "_tpl": "6740987b89d5e1ddc603f4f0",
+                    "_id": "-1957526165",
+                    "relativeProbability": 32
+                }
+            ]
+        },
+		{
+            "Id": "kontr_crate2 [643d0c93-64c4-4cae-9895-a3ea9ca5d855]",
+            "Position": { "x":-35.42932,"y":2.129,"z":155.34526 },
+			"Rotation": { "x":86.63524,"y":83.83449,"z":170.40178 },
+            "probability": 0.003781470793113743,
+            "Items": [
+                {
+                    "_tpl": "6740987b89d5e1ddc603f4f0",
+                    "_id": "-1957526165",
+                    "relativeProbability": 38
+                }
+            ]
+        },
+		{
+            "Id": "kontr_crate3 [2ec0fb06-eac6-457b-9f7e-43e956eaa48f]",
+            "Position": { "x":81.3949,"y":0.599,"z":-56.662308 },
+			"Rotation": { "x":86.635185,"y":178.05418,"z":170.40198 },
+            "probability": 0.0036819584038212763,
+            "Items": [
+                {
+                    "_tpl": "6740987b89d5e1ddc603f4f0",
+                    "_id": "-1957526165",
+                    "relativeProbability": 37
+                }
+            ]
+        },
+		{
+            "Id": "kontr_crate3 [2ec0fb06-eac6-457b-9f7e-43e956eaa48f]",
+            "Position": { "x":172.01453,"y":-0.42200005,"z":-131.1664 },
+			"Rotation": { "x":88.14417,"y":167.96767,"z":238.3154 },
+            "probability": 0.002487809732311673,
+            "Items": [
+                {
+                    "_tpl": "6740987b89d5e1ddc603f4f0",
+                    "_id": "-1957526165",
+                    "relativeProbability": 25
+                }
+            ]
+        },
+		{
+            "Id": "kontr_crate3 [2ec0fb06-eac6-457b-9f7e-43e956eaa48f]",
+            "Position": { "x":132.72461,"y":-0.48800004,"z":-40.75139 },
+			"Rotation": { "x":0,"y":49.30269,"z":0 },
+            "probability": 0.0036819584038212763,
+            "Items": [
+                {
+                    "_tpl": "6740987b89d5e1ddc603f4f0",
+                    "_id": "-1957526165",
+                    "relativeProbability": 37
+                }
+            ]
+        }
+	]
+}

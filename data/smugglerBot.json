@@ -1,0 +1,30 @@
+// Smuggler added spawn to Customs
+// Helper: <SPTHOME>/spt/spt/database/locations/bigmap/base.json
+// "BossChance" configurable 0-100
+
+"BossLocationSpawn": [
+{
+      "BossChance": 50,
+      "BossDifficult": "normal",
+      "BossEscortAmount": "2,2,3,3,3,4,4,5",
+      "BossEscortDifficult": "normal",
+      "BossEscortType": "skier",
+      "BossName": "skier",
+      "BossPlayer": false,
+      "BossZone": "ZoneScavBase,ZoneDormitory,ZoneFactoryCenter,ZoneCustoms,ZoneBrige",
+      "Delay": 0,
+      "DependKarma": false,
+      "DependKarmaPVE": false,
+      "ForceSpawn": false,
+      "IgnoreMaxBots": true,
+      "RandomTimeSpawn": false,
+      "SpawnMode": [
+        "regular",
+        "pve"
+      ],
+      "Supports": null,
+      "Time": -1,
+      "TriggerId": "",
+      "TriggerName": ""
+    }
+]
